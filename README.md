@@ -15,7 +15,7 @@ Set upgradehelper to run automatically on one of the following schedules:
 - ONSTART: Whenever the system starts up.
 - ONLOGON: Whenever a user logs on.
 - ONUPDATE: Each time after Windows updates are installed.
-\
+
 This option can be useful as the changes made by upgradehelper can sometimes be undone by themselves following updates.
 
 ### /R
